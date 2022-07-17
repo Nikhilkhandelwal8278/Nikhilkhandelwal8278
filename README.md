@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhilkhandelwal8278
 - 👀 I’m interested in open source contribution , developement. 
-- 🌱 I’m currently learning Full Stack devlopement in MENR
+- 🌱 I’m currently learning Full Stack devlopement in MERN
 - 💞️ I’m looking to collaborate some amazing organization
 - 📫 How to reach me on twitter @Nikhil86465181
 
